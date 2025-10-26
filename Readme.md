@@ -7,4 +7,4 @@
 `pip install -r requirements.txt`
 3. Open Jupyter notebook that contain the code for data analysis task. The results of the analysis is documented in *Analysis_Report.txt* file.
 
-Thank you and have a nice day 😃
+Thank you and have a nice day 🙂
